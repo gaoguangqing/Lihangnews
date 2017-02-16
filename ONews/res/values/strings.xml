@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">领航新闻</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_text_news">TextNewsActivity</string>
+    <string name="title_activity_graph_news">GraphNewsActivity</string>
+    <string name="title_activity_mix_news">MixNewsActivity</string>
+    <string name="textnews">文字新闻</string>
+    <string name="graphnews">图片新闻</string>
+    <string name="mixnews">混合新闻</string>
+
+</resources>
